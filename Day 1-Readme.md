@@ -17,6 +17,4 @@
 
 Understood the basic role of Data Engineering and how data is collected, processed, and stored using data pipelines.
 
-## Status
 
-Completed
